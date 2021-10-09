@@ -1,0 +1,14 @@
+# OAIExpirationDefaults
+
+## Properties
+Name | Type | Description | Notes
+------------ | ------------- | ------------- | -------------
+**canPermanentInbox** | **NSNumber*** |  | 
+**defaultExpirationMillis** | **NSNumber*** |  | [optional] 
+**defaultExpiresAt** | **NSDate*** |  | [optional] 
+**maxExpirationMillis** | **NSNumber*** |  | [optional] 
+**nextInboxAllowsPermanent** | **NSNumber*** |  | 
+
+[[Back to Model list]](../README#documentation-for-models) [[Back to API list]](../README#documentation-for-api-endpoints) [[Back to README]](../README)
+
+
