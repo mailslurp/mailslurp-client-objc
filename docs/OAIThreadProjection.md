@@ -1,0 +1,20 @@
+# OAIThreadProjection
+
+## Properties
+Name | Type | Description | Notes
+------------ | ------------- | ------------- | -------------
+**name** | **NSString*** |  | [optional] 
+**_id** | **NSString*** |  | 
+**userId** | **NSString*** |  | 
+**subject** | **NSString*** |  | [optional] 
+**inboxId** | **NSString*** |  | 
+**to** | **NSArray&lt;NSString*&gt;*** |  | 
+**bcc** | **NSArray&lt;NSString*&gt;*** |  | [optional] 
+**cc** | **NSArray&lt;NSString*&gt;*** |  | [optional] 
+**createdAt** | **NSDate*** |  | 
+**updatedAt** | **NSDate*** |  | 
+**aliasId** | **NSString*** |  | 
+
+[[Back to Model list]](../README#documentation-for-models) [[Back to API list]](../README#documentation-for-api-endpoints) [[Back to README]](../README)
+
+
